@@ -52,7 +52,7 @@
         "has-symbols": "^1.0.3",
         "iconv-lite": "^0.6.3",
         "in-publish": "^2.0.1",
-        "jackspeak": "=2.1.1",
+        "jackspeak": "2.3.6",
         "mkdirp": "^0.5.5",
         "mock-property": "^1.0.3",
         "module-deps": "^6.2.3",
