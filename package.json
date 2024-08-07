@@ -46,7 +46,7 @@
         "eslint": "8.57.0",
         "evalmd": "^0.0.19",
         "for-each": "^0.3.3",
-        "glob": "10.4.3",
+        "glob": "10.4.5",
         "has-override-mistake": "^1.0.1",
         "has-property-descriptors": "^1.0.2",
         "has-symbols": "^1.0.3",
