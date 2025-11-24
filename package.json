@@ -38,7 +38,7 @@
         "@browserify/uglifyify": "^6.0.0",
         "@ljharb/eslint-config": "^21.1.1",
         "aud": "^3.0.0",
-        "browserify": "^16.5.2",
+        "browserify": "^17.0.1",
         "bundle-collapser": "^1.4.0",
         "common-shakeify": "~1.1.2",
         "eclint": "^2.8.1",
